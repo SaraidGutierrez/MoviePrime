@@ -1,6 +1,8 @@
 # MoviePrime
+Este proyecto es una ecommerce, una App de compras de películas en formato físico donde se utilizó react redux que principalmente incluye: autenticación con firebase , envío de emails, pasarela de pago integrada con stripe, chat con una IA, diferentes roles de administrador, búsquedas, filtrados combinados, ordenamientos, trayendo la información desde su propia API,
 
-Este proyecto utiliza diversas tecnologías principales, que incluyen
+
+Principalmente utiliza las siguientes tecnologias:
 React: una biblioteca para construir interfaces de usuario.
 Redux: una biblioteca utilizada para implementar la gestión del estado de la aplicación.
 Firebase: un conjunto de herramientas y servicios de desarrollo web y móvil ofrecidos por Google, utilizado para la autenticación, almacenamiento de datos en la nube, entre otros.
